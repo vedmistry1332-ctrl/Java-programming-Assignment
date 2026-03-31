@@ -101,16 +101,27 @@ IDE Support: VS Code / IntelliJ IDEA / Eclipse
 The repository is organized topic-wise for better understanding:
 
 JAVA_Assignment/
+
 │── Arrays_Strings/
+
 │── Matrix/
+
 │── OOP_Concepts/
+
 │── Exception_Handling/
+
 │── Multithreading/
+
 │── Collections/
+
 │── File_Handling/
+
 │── Networking/
+
 │── Swing_GUI/
+
 │── README.md
+
 
 ▶️ How to Run the Programs
 
